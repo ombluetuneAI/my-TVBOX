@@ -1,0 +1,64 @@
+{
+    "urls": [
+        {
+            "name": "xiaoxu",
+            "url": "https://download.kstore.space/download/3524/TVBOX/sub/Alist-TvBox.json"
+        },
+        {
+            "name": "TV",
+            "url": "https://download.kstore.space/download/3524/TVBOX/sub/Alist-TvBox-Simple.json"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/多多/api.json",
+            "name": "多多"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/饭太硬/api.json",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/小米/api.json",
+            "name": "小米"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/肥猫/api.json",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/香雅情XYQ/api.json",
+            "name": "香雅情XYQ"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/道长JS/api.json",
+            "name": "道长JS"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/菜妮丝/api.json",
+            "name": "菜妮丝"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/南风/api.json",
+            "name": "南风"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/骚零/api.json",
+            "name": "骚零"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/荷城茶秀/api.json",
+            "name": "荷城茶秀"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/短剧频道/api.json",
+            "name": "短剧频道"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/少儿频道/api.json",
+            "name": "少儿频道"
+        },
+        {
+            "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/ombluetuneAI/my-TVBOX/xiaoxu/tvboxqq/动漫频道/api.json",
+            "name": "动漫频道"
+        }
+    ]
+}
